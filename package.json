@@ -1,0 +1,38 @@
+{
+  "name": "preflex",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Dynamically add vendor flexbox prefixes to CSS styles",
+  "license": "MIT",
+  "repository": "bendrucker/preflex",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "flexbox",
+    "prefix",
+    "vendor",
+    "css",
+    "style",
+    "safari",
+    "internet explorer",
+    "webkit"
+  ],
+  "devDependencies": {
+    "proxyquire": "~1.7.0",
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "css-vendor-prefix": "~1.0.0",
+    "xtend": "~4.0.0"
+  }
+}
