@@ -2,7 +2,7 @@
   "name": "preflex",
   "main": "index.js",
   "version": "0.0.0",
-  "description": "Dynamically add vendor flexbox prefixes to CSS styles",
+  "description": "Dynamically add vendor flexbox prefixes to CSS style dictionaries",
   "license": "MIT",
   "repository": "bendrucker/preflex",
   "author": {
@@ -29,7 +29,9 @@
     "tape": "^4.0.0"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "display.js",
+    "properties.json"
   ],
   "dependencies": {
     "css-vendor-prefix": "~1.0.0",
