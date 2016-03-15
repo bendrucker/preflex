@@ -3,6 +3,7 @@
   "flexWrap",
   "justifyContent",
   "alignItems",
+  "alignSelf",
   "flexGrow",
   "flexShrink",
   "flexBasis",
