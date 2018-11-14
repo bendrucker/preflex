@@ -1,4 +1,4 @@
-# preflex [![Build Status](https://travis-ci.org/bendrucker/preflex.svg?branch=master)](https://travis-ci.org/bendrucker/preflex)
+# preflex [![Build Status](https://travis-ci.org/bendrucker/preflex.svg?branch=master)](https://travis-ci.org/bendrucker/preflex) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/preflex.svg)](https://greenkeeper.io/)
 
 > Dynamically add vendor flexbox prefixes to CSS style dictionaries
 
