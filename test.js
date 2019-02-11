@@ -39,6 +39,8 @@ test('main', function (t) {
     })
     t.end()
   })
+
+  t.end()
 })
 
 test('display', function (t) {
@@ -59,4 +61,6 @@ test('display', function (t) {
     t.equal(display['inline-flex'], '-webkit-inline-flex')
     t.end()
   })
+
+  t.end()
 })
